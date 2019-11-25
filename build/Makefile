@@ -150,6 +150,114 @@ src/back.cpp.s:
 	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/back.cpp.s
 .PHONY : src/back.cpp.s
 
+src/ccw.o: src/ccw.cpp.o
+
+.PHONY : src/ccw.o
+
+# target to build an object file
+src/ccw.cpp.o:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/ccw.cpp.o
+.PHONY : src/ccw.cpp.o
+
+src/ccw.i: src/ccw.cpp.i
+
+.PHONY : src/ccw.i
+
+# target to preprocess a source file
+src/ccw.cpp.i:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/ccw.cpp.i
+.PHONY : src/ccw.cpp.i
+
+src/ccw.s: src/ccw.cpp.s
+
+.PHONY : src/ccw.s
+
+# target to generate assembly for a file
+src/ccw.cpp.s:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/ccw.cpp.s
+.PHONY : src/ccw.cpp.s
+
+src/cw.o: src/cw.cpp.o
+
+.PHONY : src/cw.o
+
+# target to build an object file
+src/cw.cpp.o:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/cw.cpp.o
+.PHONY : src/cw.cpp.o
+
+src/cw.i: src/cw.cpp.i
+
+.PHONY : src/cw.i
+
+# target to preprocess a source file
+src/cw.cpp.i:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/cw.cpp.i
+.PHONY : src/cw.cpp.i
+
+src/cw.s: src/cw.cpp.s
+
+.PHONY : src/cw.s
+
+# target to generate assembly for a file
+src/cw.cpp.s:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/cw.cpp.s
+.PHONY : src/cw.cpp.s
+
+src/down.o: src/down.cpp.o
+
+.PHONY : src/down.o
+
+# target to build an object file
+src/down.cpp.o:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/down.cpp.o
+.PHONY : src/down.cpp.o
+
+src/down.i: src/down.cpp.i
+
+.PHONY : src/down.i
+
+# target to preprocess a source file
+src/down.cpp.i:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/down.cpp.i
+.PHONY : src/down.cpp.i
+
+src/down.s: src/down.cpp.s
+
+.PHONY : src/down.s
+
+# target to generate assembly for a file
+src/down.cpp.s:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/down.cpp.s
+.PHONY : src/down.cpp.s
+
+src/forward.o: src/forward.cpp.o
+
+.PHONY : src/forward.o
+
+# target to build an object file
+src/forward.cpp.o:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/forward.cpp.o
+.PHONY : src/forward.cpp.o
+
+src/forward.i: src/forward.cpp.i
+
+.PHONY : src/forward.i
+
+# target to preprocess a source file
+src/forward.cpp.i:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/forward.cpp.i
+.PHONY : src/forward.cpp.i
+
+src/forward.s: src/forward.cpp.s
+
+.PHONY : src/forward.s
+
+# target to generate assembly for a file
+src/forward.cpp.s:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/forward.cpp.s
+.PHONY : src/forward.cpp.s
+
 src/land.o: src/land.cpp.o
 
 .PHONY : src/land.o
@@ -176,6 +284,33 @@ src/land.s: src/land.cpp.s
 src/land.cpp.s:
 	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/land.cpp.s
 .PHONY : src/land.cpp.s
+
+src/left.o: src/left.cpp.o
+
+.PHONY : src/left.o
+
+# target to build an object file
+src/left.cpp.o:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/left.cpp.o
+.PHONY : src/left.cpp.o
+
+src/left.i: src/left.cpp.i
+
+.PHONY : src/left.i
+
+# target to preprocess a source file
+src/left.cpp.i:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/left.cpp.i
+.PHONY : src/left.cpp.i
+
+src/left.s: src/left.cpp.s
+
+.PHONY : src/left.s
+
+# target to generate assembly for a file
+src/left.cpp.s:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/left.cpp.s
+.PHONY : src/left.cpp.s
 
 src/python_interface.o: src/python_interface.cpp.o
 
@@ -204,6 +339,33 @@ src/python_interface.cpp.s:
 	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/python_interface.cpp.s
 .PHONY : src/python_interface.cpp.s
 
+src/right.o: src/right.cpp.o
+
+.PHONY : src/right.o
+
+# target to build an object file
+src/right.cpp.o:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/right.cpp.o
+.PHONY : src/right.cpp.o
+
+src/right.i: src/right.cpp.i
+
+.PHONY : src/right.i
+
+# target to preprocess a source file
+src/right.cpp.i:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/right.cpp.i
+.PHONY : src/right.cpp.i
+
+src/right.s: src/right.cpp.s
+
+.PHONY : src/right.s
+
+# target to generate assembly for a file
+src/right.cpp.s:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/right.cpp.s
+.PHONY : src/right.cpp.s
+
 src/takeoff.o: src/takeoff.cpp.o
 
 .PHONY : src/takeoff.o
@@ -231,6 +393,33 @@ src/takeoff.cpp.s:
 	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/takeoff.cpp.s
 .PHONY : src/takeoff.cpp.s
 
+src/up.o: src/up.cpp.o
+
+.PHONY : src/up.o
+
+# target to build an object file
+src/up.cpp.o:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/up.cpp.o
+.PHONY : src/up.cpp.o
+
+src/up.i: src/up.cpp.i
+
+.PHONY : src/up.i
+
+# target to preprocess a source file
+src/up.cpp.i:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/up.cpp.i
+.PHONY : src/up.cpp.i
+
+src/up.s: src/up.cpp.s
+
+.PHONY : src/up.s
+
+# target to generate assembly for a file
+src/up.cpp.s:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/up.cpp.s
+.PHONY : src/up.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -243,15 +432,36 @@ help:
 	@echo "... src/back.o"
 	@echo "... src/back.i"
 	@echo "... src/back.s"
+	@echo "... src/ccw.o"
+	@echo "... src/ccw.i"
+	@echo "... src/ccw.s"
+	@echo "... src/cw.o"
+	@echo "... src/cw.i"
+	@echo "... src/cw.s"
+	@echo "... src/down.o"
+	@echo "... src/down.i"
+	@echo "... src/down.s"
+	@echo "... src/forward.o"
+	@echo "... src/forward.i"
+	@echo "... src/forward.s"
 	@echo "... src/land.o"
 	@echo "... src/land.i"
 	@echo "... src/land.s"
+	@echo "... src/left.o"
+	@echo "... src/left.i"
+	@echo "... src/left.s"
 	@echo "... src/python_interface.o"
 	@echo "... src/python_interface.i"
 	@echo "... src/python_interface.s"
+	@echo "... src/right.o"
+	@echo "... src/right.i"
+	@echo "... src/right.s"
 	@echo "... src/takeoff.o"
 	@echo "... src/takeoff.i"
 	@echo "... src/takeoff.s"
+	@echo "... src/up.o"
+	@echo "... src/up.i"
+	@echo "... src/up.s"
 .PHONY : help
 
 

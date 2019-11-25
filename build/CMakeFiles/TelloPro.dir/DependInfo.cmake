@@ -5,9 +5,16 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/data/telloproject-haejun-jung/src/back.cpp" "/data/telloproject-haejun-jung/build/CMakeFiles/TelloPro.dir/src/back.cpp.o"
+  "/data/telloproject-haejun-jung/src/ccw.cpp" "/data/telloproject-haejun-jung/build/CMakeFiles/TelloPro.dir/src/ccw.cpp.o"
+  "/data/telloproject-haejun-jung/src/cw.cpp" "/data/telloproject-haejun-jung/build/CMakeFiles/TelloPro.dir/src/cw.cpp.o"
+  "/data/telloproject-haejun-jung/src/down.cpp" "/data/telloproject-haejun-jung/build/CMakeFiles/TelloPro.dir/src/down.cpp.o"
+  "/data/telloproject-haejun-jung/src/forward.cpp" "/data/telloproject-haejun-jung/build/CMakeFiles/TelloPro.dir/src/forward.cpp.o"
   "/data/telloproject-haejun-jung/src/land.cpp" "/data/telloproject-haejun-jung/build/CMakeFiles/TelloPro.dir/src/land.cpp.o"
+  "/data/telloproject-haejun-jung/src/left.cpp" "/data/telloproject-haejun-jung/build/CMakeFiles/TelloPro.dir/src/left.cpp.o"
   "/data/telloproject-haejun-jung/src/python_interface.cpp" "/data/telloproject-haejun-jung/build/CMakeFiles/TelloPro.dir/src/python_interface.cpp.o"
+  "/data/telloproject-haejun-jung/src/right.cpp" "/data/telloproject-haejun-jung/build/CMakeFiles/TelloPro.dir/src/right.cpp.o"
   "/data/telloproject-haejun-jung/src/takeoff.cpp" "/data/telloproject-haejun-jung/build/CMakeFiles/TelloPro.dir/src/takeoff.cpp.o"
+  "/data/telloproject-haejun-jung/src/up.cpp" "/data/telloproject-haejun-jung/build/CMakeFiles/TelloPro.dir/src/up.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

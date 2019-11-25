@@ -12,7 +12,7 @@
 #include "cw.h"
 #include "ccw.h"
 
-TelloPro* get_instance(boost::python::str _inst)
+TelloPro* get_instance(boost::python::str _inst, int _value)
 {
 	std::string instance = boost::python::extract<std::string>(_inst);
 
@@ -36,7 +36,6 @@ TelloPro* get_instance(boost::python::str _inst)
 		return new Cw(_value);
 	else if(instance == "ccw")
 		return new Ccw(_value);
-	else
 	else
 		return nullptr;
 }
